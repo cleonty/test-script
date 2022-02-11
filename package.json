@@ -5,7 +5,7 @@
   "private": true,
   "bin": {
     "script": "./bin/script"
-  }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cleonty/test-script.git"
